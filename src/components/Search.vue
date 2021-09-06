@@ -333,7 +333,7 @@ export default {
     padding: 20px 10px;
     font-size: 18px;
     font-weight: 600;
-    margin-bottom: 20px;
+    margin-bottom: 22px;
     cursor: pointer;
 
     @media screen and (max-width: 1100px) {
